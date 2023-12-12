@@ -1,0 +1,14 @@
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\bin\Debug\net6.0\TimeOnlineApp.exe
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\bin\Debug\net6.0\TimeOnlineApp.deps.json
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\bin\Debug\net6.0\TimeOnlineApp.runtimeconfig.json
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\bin\Debug\net6.0\TimeOnlineApp.dll
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\bin\Debug\net6.0\TimeOnlineApp.pdb
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\obj\Debug\net6.0\TimeOnlineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\obj\Debug\net6.0\TimeOnlineApp.AssemblyInfoInputs.cache
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\obj\Debug\net6.0\TimeOnlineApp.AssemblyInfo.cs
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\obj\Debug\net6.0\TimeOnlineApp.csproj.CoreCompileInputs.cache
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\obj\Debug\net6.0\TimeOnlineApp.dll
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\obj\Debug\net6.0\refint\TimeOnlineApp.dll
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\obj\Debug\net6.0\TimeOnlineApp.pdb
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\obj\Debug\net6.0\TimeOnlineApp.genruntimeconfig.cache
+C:\Users\ICTLearner02\source\repos\TimeOnlineApp\TimeOnlineApp\obj\Debug\net6.0\ref\TimeOnlineApp.dll
